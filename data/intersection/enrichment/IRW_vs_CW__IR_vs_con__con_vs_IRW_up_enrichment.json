@@ -1,0 +1,12 @@
+{
+  "comparisons": [
+    "IRW_vs_CW",
+    "IR_vs_con",
+    "con_vs_IRW"
+  ],
+  "direction": "up",
+  "intersection_genes_count": 0,
+  "gene_set": "GO_Biological_Process",
+  "organism": "Mouse",
+  "data": []
+}

@@ -1,0 +1,101 @@
+{
+  "comparisons": [
+    "IRW_vs_CW",
+    "con_vs_IRW",
+    "IR_vs_IRW"
+  ],
+  "direction": "up",
+  "intersection_genes_count": 1,
+  "gene_set": "GO_Biological_Process",
+  "organism": "Mouse",
+  "data": [
+    {
+      "Term": "GOBP_POLY_A_PLUS_MRNA_EXPORT_FROM_NUCLEUS",
+      "Overlap": "1/24",
+      "P-value": 0.001310615989515072,
+      "Adjusted P-value": 0.014416775884665793,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_MRNA_EXPORT_FROM_NUCLEUS",
+      "Overlap": "1/73",
+      "P-value": 0.003986456968108344,
+      "Adjusted P-value": 0.015360731448542721,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_RNA_EXPORT_FROM_NUCLEUS",
+      "Overlap": "1/92",
+      "P-value": 0.005024027959807776,
+      "Adjusted P-value": 0.015360731448542721,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_MRNA_TRANSPORT",
+      "Overlap": "1/122",
+      "P-value": 0.006662297946701617,
+      "Adjusted P-value": 0.015360731448542721,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_ESTABLISHMENT_OF_RNA_LOCALIZATION",
+      "Overlap": "1/153",
+      "P-value": 0.008355176933158584,
+      "Adjusted P-value": 0.015360731448542721,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_NUCLEAR_EXPORT",
+      "Overlap": "1/175",
+      "P-value": 0.0095565749235474,
+      "Adjusted P-value": 0.015360731448542721,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_RNA_LOCALIZATION",
+      "Overlap": "1/179",
+      "P-value": 0.009775010921799913,
+      "Adjusted P-value": 0.015360731448542721,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_NUCLEOBASE_CONTAINING_COMPOUND_TRANSPORT",
+      "Overlap": "1/214",
+      "P-value": 0.011686325906509393,
+      "Adjusted P-value": 0.016068698121450415,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_NUCLEAR_TRANSPORT",
+      "Overlap": "1/362",
+      "P-value": 0.019768457841852338,
+      "Adjusted P-value": 0.024161448473375077,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_INTRACELLULAR_TRANSPORT",
+      "Overlap": "1/1354",
+      "P-value": 0.07394058540847531,
+      "Adjusted P-value": 0.08133464394932284,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_NITROGEN_COMPOUND_TRANSPORT",
+      "Overlap": "1/1969",
+      "P-value": 0.10752512013979904,
+      "Adjusted P-value": 0.10752512013979904,
+      "Genes": "Zc3h11a",
+      "Gene_set": "GO_Biological_Process"
+    }
+  ]
+}

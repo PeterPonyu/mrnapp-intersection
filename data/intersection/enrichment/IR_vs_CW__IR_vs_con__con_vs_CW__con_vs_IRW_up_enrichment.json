@@ -1,0 +1,254 @@
+{
+  "comparisons": [
+    "IR_vs_con",
+    "con_vs_CW",
+    "con_vs_IRW",
+    "IR_vs_CW"
+  ],
+  "direction": "up",
+  "intersection_genes_count": 1,
+  "gene_set": "GO_Biological_Process",
+  "organism": "Mouse",
+  "data": [
+    {
+      "Term": "GOBP_POSITIVE_REGULATION_OF_LIPOPROTEIN_PARTICLE_CLEARANCE",
+      "Overlap": "1/6",
+      "P-value": 0.000327653997378768,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_HIGH_DENSITY_LIPOPROTEIN_PARTICLE_CLEARANCE",
+      "Overlap": "1/11",
+      "P-value": 0.000600698995194408,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_HIGH_DENSITY_LIPOPROTEIN_PARTICLE_REMODELING",
+      "Overlap": "1/15",
+      "P-value": 0.00081913499344692,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_PHOSPHOLIPID_HOMEOSTASIS",
+      "Overlap": "1/17",
+      "P-value": 0.0009283529925731761,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REGULATION_OF_LIPOPROTEIN_METABOLIC_PROCESS",
+      "Overlap": "1/19",
+      "P-value": 0.001037570991699432,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REVERSE_CHOLESTEROL_TRANSPORT",
+      "Overlap": "1/20",
+      "P-value": 0.0010921799912625599,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REGULATION_OF_LIPOPROTEIN_PARTICLE_CLEARANCE",
+      "Overlap": "1/23",
+      "P-value": 0.001256006989951944,
+      "Adjusted P-value": 0.008612619359670474,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_TRIGLYCERIDE_CATABOLIC_PROCESS",
+      "Overlap": "1/29",
+      "P-value": 0.0015836609873307122,
+      "Adjusted P-value": 0.008737439930100479,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_PROTEIN_CONTAINING_COMPLEX_REMODELING",
+      "Overlap": "1/30",
+      "P-value": 0.00163826998689384,
+      "Adjusted P-value": 0.008737439930100479,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_PLASMA_LIPOPROTEIN_PARTICLE_CLEARANCE",
+      "Overlap": "1/39",
+      "P-value": 0.002129750982961992,
+      "Adjusted P-value": 0.009174311926605505,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_NEUTRAL_LIPID_CATABOLIC_PROCESS",
+      "Overlap": "1/41",
+      "P-value": 0.002238968982088248,
+      "Adjusted P-value": 0.009174311926605505,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_POSITIVE_REGULATION_OF_STEROL_TRANSPORT",
+      "Overlap": "1/42",
+      "P-value": 0.0022935779816513763,
+      "Adjusted P-value": 0.009174311926605505,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_PROTEIN_LIPID_COMPLEX_ORGANIZATION",
+      "Overlap": "1/46",
+      "P-value": 0.002512013979903888,
+      "Adjusted P-value": 0.009275128541183588,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REGULATION_OF_STEROL_TRANSPORT",
+      "Overlap": "1/65",
+      "P-value": 0.00354958497160332,
+      "Adjusted P-value": 0.011467889908256881,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_GLYCEROLIPID_CATABOLIC_PROCESS",
+      "Overlap": "1/67",
+      "P-value": 0.003658802970729576,
+      "Adjusted P-value": 0.011467889908256881,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REGULATION_OF_PLASMA_LIPOPROTEIN_PARTICLE_LEVELS",
+      "Overlap": "1/70",
+      "P-value": 0.00382262996941896,
+      "Adjusted P-value": 0.011467889908256881,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_POSITIVE_REGULATION_OF_LIPID_TRANSPORT",
+      "Overlap": "1/100",
+      "P-value": 0.0054608999563128,
+      "Adjusted P-value": 0.014999271880005823,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_STEROL_HOMEOSTASIS",
+      "Overlap": "1/103",
+      "P-value": 0.005624726955002184,
+      "Adjusted P-value": 0.014999271880005823,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_TRIGLYCERIDE_METABOLIC_PROCESS",
+      "Overlap": "1/116",
+      "P-value": 0.006334643949322849,
+      "Adjusted P-value": 0.015352930162890844,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_STEROL_TRANSPORT",
+      "Overlap": "1/119",
+      "P-value": 0.006498470948012232,
+      "Adjusted P-value": 0.015352930162890844,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_POSITIVE_REGULATION_OF_LIPID_LOCALIZATION",
+      "Overlap": "1/123",
+      "P-value": 0.006716906946264744,
+      "Adjusted P-value": 0.015352930162890844,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_LIPOPROTEIN_METABOLIC_PROCESS",
+      "Overlap": "1/143",
+      "P-value": 0.007809086937527304,
+      "Adjusted P-value": 0.016710353866317168,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REGULATION_OF_LIPID_TRANSPORT",
+      "Overlap": "1/152",
+      "P-value": 0.008300567933595456,
+      "Adjusted P-value": 0.016710353866317168,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_NEUTRAL_LIPID_METABOLIC_PROCESS",
+      "Overlap": "1/153",
+      "P-value": 0.008355176933158584,
+      "Adjusted P-value": 0.016710353866317168,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS",
+      "Overlap": "1/161",
+      "P-value": 0.008792048929663608,
+      "Adjusted P-value": 0.01688073394495413,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_REGULATION_OF_LIPID_LOCALIZATION",
+      "Overlap": "1/186",
+      "P-value": 0.010157273918741808,
+      "Adjusted P-value": 0.018154458521430997,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_LIPID_HOMEOSTASIS",
+      "Overlap": "1/187",
+      "P-value": 0.010211882918304936,
+      "Adjusted P-value": 0.018154458521430997,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_MONOCARBOXYLIC_ACID_BIOSYNTHETIC_PROCESS",
+      "Overlap": "1/227",
+      "P-value": 0.012396242900830056,
+      "Adjusted P-value": 0.020879468522619425,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_CELLULAR_LIPID_CATABOLIC_PROCESS",
+      "Overlap": "1/231",
+      "P-value": 0.01261467889908257,
+      "Adjusted P-value": 0.020879468522619425,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    },
+    {
+      "Term": "GOBP_ORGANIC_HYDROXY_COMPOUND_TRANSPORT",
+      "Overlap": "1/302",
+      "P-value": 0.016491917868064657,
+      "Adjusted P-value": 0.02638706858890345,
+      "Genes": "Lipg",
+      "Gene_set": "GO_Biological_Process"
+    }
+  ]
+}
