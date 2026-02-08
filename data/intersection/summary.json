@@ -1,0 +1,24 @@
+{
+  "available_comparisons": [
+    "IRW_vs_CW",
+    "IR_vs_con"
+  ],
+  "directions": [
+    "up",
+    "down",
+    "both"
+  ],
+  "precomputed_combinations": [
+    {
+      "comparisons": [
+        "IRW_vs_CW",
+        "IR_vs_con"
+      ],
+      "directions": [
+        "up",
+        "down",
+        "both"
+      ]
+    }
+  ]
+}

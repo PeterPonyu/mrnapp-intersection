@@ -1,0 +1,37 @@
+{
+  "comparison": {
+    "name": "Comparison 2",
+    "description": "Results of the differential analysis comparing condition A and condition B.",
+    "results": {
+      "log2FoldChange": {
+        "gene1": 2.5,
+        "gene2": -1.2,
+        "gene3": 0.8
+      },
+      "pValue": {
+        "gene1": 0.001,
+        "gene2": 0.045,
+        "gene3": 0.150
+      },
+      "adjustedPValue": {
+        "gene1": 0.002,
+        "gene2": 0.050,
+        "gene3": 0.160
+      },
+      "significantGenes": [
+        {
+          "gene": "gene1",
+          "log2FoldChange": 2.5,
+          "pValue": 0.001,
+          "adjustedPValue": 0.002
+        },
+        {
+          "gene": "gene2",
+          "log2FoldChange": -1.2,
+          "pValue": 0.045,
+          "adjustedPValue": 0.050
+        }
+      ]
+    }
+  }
+}

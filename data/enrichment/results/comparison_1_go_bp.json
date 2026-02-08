@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "term": "Gene Ontology Term 1",
+      "p_value": 0.001,
+      "adjusted_p_value": 0.01,
+      "enrichment_score": 2.5,
+      "gene_count": 15,
+      "genes": [
+        "GeneA",
+        "GeneB",
+        "GeneC",
+        "GeneD",
+        "GeneE"
+      ]
+    },
+    {
+      "term": "Gene Ontology Term 2",
+      "p_value": 0.002,
+      "adjusted_p_value": 0.02,
+      "enrichment_score": 2.0,
+      "gene_count": 10,
+      "genes": [
+        "GeneF",
+        "GeneG",
+        "GeneH",
+        "GeneI"
+      ]
+    }
+  ],
+  "summary": {
+    "total_terms": 2,
+    "significant_terms": 2,
+    "total_genes": 25
+  }
+}

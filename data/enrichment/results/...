@@ -1,0 +1,26 @@
+{
+  "comparison_1_go_bp": {
+    "term": "Cellular Process",
+    "p_value": 0.001,
+    "genes": ["GeneA", "GeneB", "GeneC"],
+    "description": "Biological processes related to cellular functions."
+  },
+  "comparison_1_go_mf": {
+    "term": "Binding",
+    "p_value": 0.002,
+    "genes": ["GeneD", "GeneE"],
+    "description": "Molecular functions related to binding activities."
+  },
+  "comparison_2_go_bp": {
+    "term": "Metabolic Process",
+    "p_value": 0.005,
+    "genes": ["GeneF", "GeneG"],
+    "description": "Biological processes related to metabolism."
+  },
+  "comparison_2_go_mf": {
+    "term": "Catalytic Activity",
+    "p_value": 0.003,
+    "genes": ["GeneH", "GeneI"],
+    "description": "Molecular functions related to catalytic activities."
+  }
+}

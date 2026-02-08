@@ -1,0 +1,22 @@
+{
+  "comparison": "Comparison 1",
+  "results": {
+    "log2FoldChange": 2.5,
+    "pValue": 0.001,
+    "padj": 0.005,
+    "geneResults": [
+      {
+        "gene": "GeneA",
+        "log2FoldChange": 3.0,
+        "pValue": 0.0001,
+        "padj": 0.0005
+      },
+      {
+        "gene": "GeneB",
+        "log2FoldChange": 2.0,
+        "pValue": 0.002,
+        "padj": 0.004
+      }
+    ]
+  }
+}
